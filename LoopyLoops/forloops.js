@@ -5,7 +5,7 @@
 // numbers from 10 to 1.
 
 
-    for( i = 0; <= 10; i++){
+    for (let i = 0; i <= 10; i++){
         console.log(i);
     }
 
@@ -15,6 +15,9 @@
 // Repeat with a do while.
 // Create this array: const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]. Use a for … of to loop through
 // this array and log all the numbers. (Note: we’re not asking you to also count down on this one.)
+
+// https://dev.to/harittweets/everything-about-for-loops-in-javascript-nob
+//https://morioh.com/p/0b7759d1f826?f=5c21fb01c16e2556b555ab32&fbclid=IwAR1ag6iXwMWgK4WiX4lpu6d0OM_nCfMk81X17naF27l9x2-pys9NU_yZcFA
 // Extended Challenges second exercise:
 // Given any string, use a loop to add padding (extra spaces) to the front to make the string ten
 // characters long. For example, given the string “planet”, log “ planet” (add four spaces), and for
@@ -25,9 +28,9 @@
 // Create a loop that runs through each item in the fruits array.
 
 
-var fruits = ["Apple", "Banana", "Orange"];
-for (x 
+// var fruits = ["Apple", "Banana", "Orange"];
+// for (x 
  
-) {
-  console.log(x);
-}
+// ) {
+//   console.log(x);
+// }
