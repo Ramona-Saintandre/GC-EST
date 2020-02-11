@@ -9,15 +9,28 @@
     //     console.log(i);
     // }
 
-
+    //it works
+// for (let i = 10; i >= 1; i--) {
+//     console.log(i)
+// };
 // Repeat the exercise with a while loop.
 // why does this keep consoling 12 ?
 
-let i = 0;
-while (i++ <= 10);
-console.log(i);
+// let i = 0;
+// while (i < 10 ) {
+//     i++;
+//     console.log(i);
+// }
+
+// let i =11;
+// do {
+//     i++;
+//     console.log(i);
+// }while(i < 10);
 
 // Repeat with a do while.
+
+//for of is used for arrays 
 
 // Create this array: const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]. Use a for … of to loop through
 // this array and log all the numbers. (Note: we’re not asking you to also count down on this one.)
